@@ -58,11 +58,7 @@ Credits:
 			"Icefields" (flickr.com/photos/ryanschroeder/11876741703)
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome (fontawesome.io)
 
 	Other:
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 PIE (css3pie.com)
-		Sass (sass-lang.com)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
